@@ -12,6 +12,7 @@ export default defineConfig({
     ],
 
     sidebar: [
+      { text: 'Statement of Faith', link: '/statement-of-faith.html' },
       {
         text: 'Service Agreement',
         items: [
