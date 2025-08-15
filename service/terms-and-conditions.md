@@ -32,10 +32,10 @@ The Aura App is a subscription-based service that leverages AI technology to off
 ## **Subscription and Payment Terms**
 
 - **Subscriptions:** The App operates on a subscription model, with details on pricing and payment terms available in the App Store listing. Subscription fees are billed in advance on a recurring basis (e.g., monthly, annually).
-- **Billing and Automatic Renewal:** Your subscription will automatically renew at the end of each billing cycle unless canceled at least 24 hours before the renewal date. Renewal fees will be charged to your payment method on file.
-- **Cancellation:** You may cancel your subscription at any time through your App Store account settings. Upon cancellation, you will retain access to the Services until the end of the current billing period. No refunds will be issued for unused subscription time.
+- **Billing and Automatic Renewal:** Your subscription will automatically renew at the end of each billing cycle unless canceled at least 24 hours before the renewal date. **For free trials, billing will begin automatically unless the subscription is ended at least 24 hours before the trial period ends.** Renewal fees will be charged to your payment method on file.
+- **Cancellation:** You may manage or cancel your subscription at any time through your Apple App Store account settings. If canceled, you will retain access to the Services until the end of the current billing period or trial. **To avoid being charged, the subscription must be ended at least 24 hours before the trial or billing period ends.** No refunds will be issued for unused subscription time.
 - **Changes to Fees:** We reserve the right to change our subscription fees at any time. If we do, we will provide you with advance notice. If you do not agree to the fee changes, you must cancel your subscription before the changes take effect.
-- **Refund Policy:** Refunds are issued at our sole discretion unless otherwise required by applicable law. For inquiries related to billing or refunds, please contact Apple App Store for relevant policies.
+- **Refund Policy:** All refunds for subscriptions purchased through the Apple App Store must be requested directly from Apple. As the developer, we are unable to process refunds on your behalf. Please follow Apple’s refund request process here: https://support.apple.com/en-us/HT204084.
 
 ## **Privacy and Data Use**
 
