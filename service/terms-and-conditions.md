@@ -88,7 +88,7 @@ You agree to indemnify, defend, and hold harmless Aura Ventures Ltd., its affili
 
 ## **Dispute Resolution and Arbitration Agreement**
 
-- **Arbitration Agreement:** You agree that any disputes or claims arising out of or relating to these Terms will be resolved exclusively through final and binding arbitration in accordance with the rules of the American Arbitration Association.
+- **Arbitration Agreement:** You agree that any disputes or claims arising out of or relating to these Terms will be resolved exclusively through final and binding arbitration in accordance with the rules of the Hong Kong International Arbitration Centre (HKIAC).
 - **Class Action Waiver:** You agree to pursue claims on an individual basis and not as a class or collective action.
 
 ## **Miscellaneous**
