@@ -22,4 +22,4 @@ We are steadfast in our commitment to safeguarding the privacy and security of o
 
 Let us journey together, delving into Scripture and discovering the life-changing truths it contains.
 
-For any inquiries, feedback, or support, please contact us at: [**auraprayerapp@gmail.com**](mailto:auraprayerapp@gmail.com). We are here to support you on your spiritual journey.
+For any inquiries, feedback, or support, please contact us at: [**support@auraofhope.com**](mailto:support@auraofhope.com). We are here to support you on your spiritual journey.

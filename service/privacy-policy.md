@@ -88,4 +88,4 @@ By using the Services, you consent to the transfer of your data to countries tha
 
 If you have any questions or concerns, please contact us at:
 
-Email: [auraprayerapp@gmail.com](mailto:auraprayerapp@gmail.com)
+Email: [support@auraofhope.com](mailto:support@auraofhope.com)

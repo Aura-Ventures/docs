@@ -27,7 +27,7 @@ The Aura App is a subscription-based service that leverages AI technology to off
 
 - To access certain features of the App, you must create an account by providing accurate, current, and complete registration information.
 - You agree to keep your account information up-to-date and to protect the security of your account by maintaining the confidentiality of your password and restricting access to your device.
-- You are solely responsible for all activities that occur under your account. If you become aware of any unauthorized access or breach of security, you agree to immediately notify us at [**auraprayerapp@gmail.com**](mailto:auraprayerapp@gmail.com)
+- You are solely responsible for all activities that occur under your account. If you become aware of any unauthorized access or breach of security, you agree to immediately notify us at [**support@auraofhope.com**](mailto:support@auraofhope.com)
 
 ## **Subscription and Payment Terms**
 
@@ -62,8 +62,14 @@ By using the App, you agree to comply with the following acceptable use policies
 
 - **Our Intellectual Property:** The App, its content, features, and functionality (including software, text, images, graphics, and other materials) are owned by Aura Ventures Ltd. and are protected by copyright, trademark, and other intellectual property laws. You are granted a limited, non-exclusive license to use the App for personal, non-commercial purposes.
 - **Restrictions:** You may not copy, reproduce, distribute, or create derivative works from any part of the App or its content without our prior written permission.
-- **Bible Version Notice:** New American Standard Bible – NASB 2020
+- **Bible Version Notice:** 
+  - New American Standard Bible – NASB 2020
 Copyright © 1960, 1962, 1963, 1968, 1971, 1972, 1973, 1975, 1977, 1995, 2020 by The Lockman Foundation All rights reserved [www.lockman.org](http://www.lockman.org/)
+  - The ESV® Bible (The Holy Bible, English Standard Version®), © 2001 by Crossway, a
+publishing ministry of Good News Publishers. ESV Text Edition: 2025. The ESV text may
+not be quoted in any publication made available to the public by a Creative Commons
+license. The ESV may not be translated in whole or in part into any other language. Used by permission. All rights reserved.
+The Holy Bible, English Standard Version®, is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved.
 
 ## **Third-Party Services**
 
@@ -103,4 +109,4 @@ You agree to indemnify, defend, and hold harmless Aura Ventures Ltd., its affili
 
 If you have any questions or concerns about these Terms, please contact us at:
 
-Email: [auraprayerapp@gmail.com](mailto:auraprayerapp@gmail.com)
+Email: [support@auraofhope.com](mailto:support@auraofhope.com)
